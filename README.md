@@ -105,15 +105,9 @@ Original video measures the divergence between a pendulum and a "shadow" pendulu
 #### Rendered Videos
 *More examples of generated MP4 outputs can be found in the [visuals/](visuals/) directory*
 
-<video controls>
-  <source src="visuals/vase.mp4" type="video/mp4">
-</video>
-<video controls>
-  <source src="visuals/funky.mp4" type="video/mp4">
-</video>
-<video controls>
-  <source src="visuals/fish.mp4" type="video/mp4">
-</video>
+![Vase](visuals/vase.gif)
+![Funky](visuals/funky.gif)
+![Fish](visuals/fish.gif)
 
 ## Credits
 
