@@ -1,0 +1,6 @@
+taichi
+numpy
+matplotlib
+scipy
+numba
+imageio
